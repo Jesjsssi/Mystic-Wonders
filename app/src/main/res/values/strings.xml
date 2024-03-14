@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Mystic Wonders</string>
+    <string name="heroes_name">Nama Magic</string>
+    <string name="nama">Jesica Trivena Sinaga</string>
+    <string name="email">jsctven15@gmail.com</string>
+    <string name="power">Kekuatan : </string>
+    <string name="durability">Ketahanan : </string>
+    <string name="description">Deskripsi</string>
+    <string name="info">Info </string>
+    <string name="about_page">About Me</string>
+    <string name="item">Detail</string>
+    <string name="kategori">Kategori </string>
+    <string name="content_specs_kategori">Bahan Ajaib </string>
+    <string name="dapat">Cara Mendapatkan</string>
+    <string name="konten_dapat"> Dihasilkan dari bahan-bahan khusus yang langka atau ditemukan di tempat suci tertentu. </string>
+    <string name="penggunaan">Penggunaan </string>
+    <string name="konten_penggunaan">Digunakan sebagai senjata sihir, meningkatkan kemampuan sihir karakter </string>
+
+    <string-array name="data_name">
+        <item>Bola Kristal</item>
+        <item>Botol Penyembuh</item>
+        <item>Buku</item>
+        <item>Kerang</item>
+        <item>Kristal</item>
+        <item>Racun</item>
+        <item>Sapu Terbang</item>
+        <item>Laba laba</item>
+        <item>Tongkat Sihir</item>
+        <item>Jam</item>
+    </string-array>
+
+    <string-array name="data_power">
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +150 HP</item>
+        <item>Kekuatan : +75 Magic Power</item>
+        <item>Kekuatan : +20 Magic Defense</item>
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +50 Magic Power</item>
+        <item>Kekuatan : +30% Movement Speed</item>
+        <item>Kekuatan : +50 Magic Power</item>
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +10% Cooldown Reduction</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Bola kristal sering digunakan oleh peramal atau penyihir untuk melihat ke masa depan atau mendapatkan wawasan tentang hal-hal yang tidak terlihat. </item>
+        <item>Botol biasanya digunakan untuk menyimpan ramuan sihir atau benda-benda ajaib lainnya.</item>
+        <item>Buku sihir atau grimoire adalah buku yang berisi mantra, resep ramuan, dan pengetahuan magis lainnya.</item>
+        <item>Dalam beberapa tradisi, kerang digunakan dalam ritual magis, seringkali terkait dengan elemen air dan dewi laut.</item>
+        <item>Kristal sering digunakan dalam praktek magis untuk penyembuhan, perlindungan, atau memperkuat energi sihir.</item>
+        <item>Ramuan adalah campuran bahan-bahan yang dipercaya memiliki kekuatan magis. Biasanya digunakan dalam ritual atau untuk menciptakan efek tertentu.</item>
+        <item>Dalam cerita rakyat, sapu sering digunakan oleh penyihir untuk terbang. Ini juga bisa digunakan dalam ritual pembersihan.</item>
+        <item>Laba-laba sering dihubungkan dengan kekuatan dan kebijaksanaan feminin. Jaring laba-laba bisa dilihat sebagai simbol dari takdir atau hubungan antar semua makhluk hidup.</item>
+        <item>Tongkat adalah alat sihir klasik yang digunakan untuk mengarahkan energi sihir. Bisa digunakan untuk berbagai tujuan, dari mengubah benda menjadi sesuatu yang lain hingga mengendalikan elemen-elemen alam.</item>
+        <item>Jam pasir dapat digunakan sebagai alat bantu meditasi di mana seorang praktisi sihir menggunakan durasi tertentu untuk memusatkan perhatian atau mengembangkan konsentrasi. Jam pasir dapat membantu dalam mencapai tingkat fokus yang diinginkan selama praktik-praktik spiritual.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/bola</item>
+        <item>@drawable/botol</item>
+        <item>@drawable/buku</item>
+        <item>@drawable/kerang</item>
+        <item>@drawable/kristal</item>
+        <item>@drawable/ramuan</item>
+        <item>@drawable/sapu</item>
+        <item>@drawable/spider</item>
+        <item>@drawable/tongkat</item>
+        <item>@drawable/jam</item>
+    </integer-array>
+
+    <string-array name="tv_detail_name">
+        <item>Bola Kristal</item>
+        <item>Botol Penyembuh</item>
+        <item>Buku</item>
+        <item>Kerang</item>
+        <item>Kristal</item>
+        <item>Racun</item>
+        <item>Sapu Terbang</item>
+        <item>Laba laba</item>
+        <item>Tongkat Sihir</item>
+        <item>Jam</item>
+    </string-array>
+
+    <string-array name="tv_detail_power">
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +150 HP</item>
+        <item>Kekuatan : +75 Magic Power</item>
+        <item>Kekuatan : +20 Magic Defense</item>
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +50 Magic Power</item>
+        <item>Kekuatan : +30% Movement Speed</item>
+        <item>Kekuatan : +50 Magic Power</item>
+        <item>Kekuatan : +70 Magic Power</item>
+        <item>Kekuatan : +10% Cooldown Reduction</item>
+    </string-array>
+
+    <string-array name="tv_detail_durability">
+        <item>Ketahanan : Tergolong item yang cukup rapuh.</item>
+        <item>Ketahanan : Item ini tidak memiliki durability</item>
+        <item>Ketahanan : Tergolong item yang cukup rapuh</item>
+        <item>Ketahanan : Item ini cukup tahan lama</item>
+        <item>Ketahanan : Tergolong item yang cukup rapuh</item>
+        <item>Ketahanan : Tergolong item yang cukup rapuh</item>
+        <item>Ketahanan : Item ini tidak memiliki durability</item>
+        <item>Ketahanan : Tergolong item yang cukup rapuh</item>
+        <item>Ketahanan : Tergolong item yang cukup rapuh</item>
+        <item>Ketahanan : Item ini tidak memiliki durability</item>
+    </string-array>
+
+    <string-array name="tv_detail_description">
+        <item>Bola kristal sering digunakan oleh peramal atau penyihir untuk melihat ke masa depan atau mendapatkan wawasan tentang hal-hal yang tidak terlihat. </item>
+        <item>Botol biasanya digunakan untuk menyimpan ramuan sihir atau benda-benda ajaib lainnya.</item>
+        <item>Buku sihir atau grimoire adalah buku yang berisi mantra, resep ramuan, dan pengetahuan magis lainnya.</item>
+        <item>Dalam beberapa tradisi, kerang digunakan dalam ritual magis, seringkali terkait dengan elemen air dan dewi laut.</item>
+        <item>Kristal sering digunakan dalam praktek magis untuk penyembuhan, perlindungan, atau memperkuat energi sihir.</item>
+        <item>Ramuan adalah campuran bahan-bahan yang dipercaya memiliki kekuatan magis. Biasanya digunakan dalam ritual atau untuk menciptakan efek tertentu.</item>
+        <item>Dalam cerita rakyat, sapu sering digunakan oleh penyihir untuk terbang. Ini juga bisa digunakan dalam ritual pembersihan.</item>
+        <item>Laba-laba sering dihubungkan dengan kekuatan dan kebijaksanaan feminin. Jaring laba-laba bisa dilihat sebagai simbol dari takdir atau hubungan antar semua makhluk hidup.</item>
+        <item>Tongkat adalah alat sihir klasik yang digunakan untuk mengarahkan energi sihir. Bisa digunakan untuk berbagai tujuan, dari mengubah benda menjadi sesuatu yang lain hingga mengendalikan elemen-elemen alam.</item>
+        <item>Jam pasir dapat digunakan sebagai alat bantu meditasi di mana seorang praktisi sihir menggunakan durasi tertentu untuk memusatkan perhatian atau mengembangkan konsentrasi. Jam pasir dapat membantu dalam mencapai tingkat fokus yang diinginkan selama praktik-praktik spiritual.</item>
+    </string-array>
+
+    <string-array name="tv_detail_info">
+        <item>Item ini meningkatkan Magic Power dan Movement Speed hero. Pasifnya meningkatkan Magic Power hero berdasarkan Mana yang dimiliki. Bola Kristal sangat populer di kalangan mage karena meningkatkan Magic Power secara signifikan dan sangat kuat di late game.</item>
+        <item>Item ini memulihkan HP hero secara berkala. Botol Penyembuh berguna untuk sustain hero di early game, namun jarang digunakan di late game karena hero biasanya memiliki item lain yang lebih penting.</item>
+        <item>Item ini meningkatkan Magic Power hero. Pasifnya meningkatkan Magic Power hero setelah menggunakan skill. Buku sangat efektif untuk hero yang sering menggunakan skill.</item>
+        <item>Item ini meningkatkan Magic Defense hero. Pasifnya mengurangi Magic Damage yang diterima hero. Kerang penting untuk hero mage yang sering terkena burst damage.</item>
+        <item>Item ini meningkatkan Magic Power dan Cooldown Reduction hero. Pasifnya meningkatkan Magic Power hero setelah menggunakan skill ultimate. Kristal efektif untuk hero yang memiliki skill ultimate yang kuat.</item>
+        <item>Item ini memberikan efek slow dan damage tambahan pada serangan hero. Racun efektif untuk hero mage yang ingin mengganggu pergerakan lawan.</item>
+        <item>Item ini meningkatkan Movement Speed hero. Sapu Terbang membantu hero mage untuk roaming dan ganking dengan lebih mudah.</item>
+        <item>Item ini memberikan efek slow dan damage tambahan pada serangan hero. Laba-laba efektif untuk hero mage yang ingin mengunci pergerakan lawan.</item>
+        <item>Item ini meningkatkan Magic Power dan Lifesteal hero. Tongkat Sihir membantu hero mage untuk sustain di teamfight.</item>
+        <item>Item ini meningkatkan Cooldown Reduction hero. Jam membantu hero mage untuk spam skill lebih sering.</item>
+    </string-array>
+
+    <integer-array name="tv_detail_photo">
+        <item>@drawable/bola</item>
+        <item>@drawable/botol</item>
+        <item>@drawable/buku</item>
+        <item>@drawable/kerang</item>
+        <item>@drawable/kristal</item>
+        <item>@drawable/ramuan</item>
+        <item>@drawable/sapu</item>
+        <item>@drawable/spider</item>
+        <item>@drawable/tongkat</item>
+        <item>@drawable/jam</item>
+    </integer-array>
+</resources>
